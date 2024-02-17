@@ -1,0 +1,30 @@
+#header-container{
+    display: block;
+    background-color: rgb(255, 255, 255);
+    margin: 0px 0px 30px 30px;
+    max-width: 80%;
+    align-items: center;
+    text-align: center;
+}
+
+#logo-img{
+    width: 35%;
+    height: 35%;
+}
+
+.itemgroup{
+    background-color: aquamarine;
+    max-width: 80%;
+    margin: 0px 0px 30px 30px;
+}
+
+
+
+#footer-container{
+    display: block;
+    background-color: aquamarine;
+    margin: 0px 0px 30px 30px;
+    max-width: 80%;
+    align-items: center;
+    text-align: center;
+}
