@@ -39,13 +39,13 @@ body{
 
     #app-container{
         background-color: rgb(193, 253, 206);
-        width: 500px;
+        width: 400px;
         margin: 10px 10px 10px 10px;
     }
 
     #entree-container{
         background-color: rgb(253, 234, 193);
-        width: 500px;
+        width: 400px;
         margin: 10px 10px 10px 10px;
     }
 
@@ -62,13 +62,13 @@ body{
 
     #bev-container{
         background-color: rgb(255, 197, 233);
-        width: 500px;
+        width: 400px;
         margin: 10px 10px 10px 10px;
     }
 
     #snack-container{
         background-color: rgb(255, 198, 175);
-        width: 500px;
+        width: 400px;
         margin: 10px 10px 10px 10px;
     }
 
