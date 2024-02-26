@@ -22,8 +22,7 @@ body{
 
 #img{
     border: solid black 5px;
-    height: 350px;
-    max-width: 1000px;
+    height: 250px;
     border-radius: 75px
 }
 
