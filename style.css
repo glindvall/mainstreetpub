@@ -23,8 +23,8 @@ body{
 
 #img{
     border: solid black 5px;
-    height: 75%;
-    width: 75%;
+    height: 400px;
+    width: 1000px;
     border-radius: 75px
 }
 
@@ -36,7 +36,7 @@ body{
     text-align: center;
     justify-content: center;
     margin: 30px 0px 30px 0px;
-    gap: 5rem;
+    gap: 3rem;
 }
 
     #app-container{
@@ -59,7 +59,7 @@ body{
     justify-content: center;
     /* background-color: rgb(219, 253, 242); */
     margin: 30px 0px 30px 0px;
-    gap: 5rem;
+    gap: 3rem;
 }
 
     #bev-container{
